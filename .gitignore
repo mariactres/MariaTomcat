@@ -1,0 +1,17 @@
+# Archivos compilados
+*.class
+
+# Archivos WAR
+*.war
+
+# Directorios generados
+WEB-INF/classes/
+
+# Directorios propios de Tomcat
+webapps/
+logs/
+work/
+temp/
+
+# Otros
+*.log
