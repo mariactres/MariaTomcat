@@ -1,4 +1,4 @@
-# MariaTomcat
+
 # MariaTomcat – Despliegue automático de aplicación Java en Tomcat
 
 ## Descripción del proyecto
