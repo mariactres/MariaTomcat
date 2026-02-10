@@ -64,6 +64,6 @@ El script `deploy.sh` realiza las siguientes acciones:
 
 ---
 
-## Autor
+## María
 
 Proyecto realizado como práctica de despliegue automático de aplicaciones Java en entornos cloud.
